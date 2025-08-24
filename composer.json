@@ -1,5 +1,5 @@
 {
-    "name": "liip/imagine-bundle",
+    "name": "se7enxweb/liip-imagine-bundle",
     "type": "symfony-bundle",
     "description": "This bundle provides an image manipulation abstraction toolkit for Symfony-based projects.",
     "keywords": [ "imagine", "image", "manipulation", "pictures", "photos", "transformation", "bundle", "symfony", "liip" ],
@@ -24,7 +24,7 @@
         "symfony/filesystem": "^3.4|^4.4|^5.3|^6.0|^7.0",
         "symfony/finder": "^3.4|^4.4|^5.3|^6.0|^7.0",
         "symfony/framework-bundle": "^3.4.23|^4.4|^5.3|^6.0|^7.0",
-        "symfony/mime": "^4.4|^5.3|^6.0|^7.0",
+        "se7enxweb/symfony-mime": "^4.4|^5.3|^6.0|^7.0",
         "symfony/options-resolver": "^3.4|^4.4|^5.3|^6.0|^7.0",
         "symfony/process": "^3.4|^4.4|^5.3|^6.0|^7.0",
         "twig/twig": "^1.44|^2.9|^3.0"
