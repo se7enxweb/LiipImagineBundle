@@ -2,7 +2,7 @@
     "name": "se7enxweb/liip-imagine-bundle",
     "type": "symfony-bundle",
     "description": "This bundle provides an image manipulation abstraction toolkit for Symfony-based projects.",
-    "keywords": [ "imagine", "image", "manipulation", "pictures", "photos", "transformation", "bundle", "symfony", "liip" ],
+    "keywords": [ "imagine", "image", "manipulation", "pictures", "photos", "transformation", "bundle", "symfony", "liip", "ezplatform" ],
     "homepage": "https://www.liip.ch",
     "license": "MIT",
     "authors": [
